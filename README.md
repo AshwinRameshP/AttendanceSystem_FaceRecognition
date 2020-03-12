@@ -18,3 +18,5 @@
 7. All attendance records for the class are stored in the Attendance folder.
 8. Also we can visualize thw attendance in a bar graph statistics.
 
+#### PS: Feel Free to Fork the Repository and improvise and reuse.
+
