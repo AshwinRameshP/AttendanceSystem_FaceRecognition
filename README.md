@@ -1,4 +1,5 @@
-﻿## Attendance monitoring system using face recognition developed as part of internship at Tequed Labs
+## Attendance monitoring system using face recognition developed as part of internship at Tequed Labs
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
 
 ### Package Requirements
 - Opencv -  `pip install opencv-python`
