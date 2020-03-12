@@ -3,7 +3,7 @@
 
 ### Package Requirements
 - Opencv -  `pip install opencv-python`
-- Tkinter - Available in python/
+- Tkinter - Available in python package
 - PIL  - `pip install Pillow`
 - Pandas - `pip install pandas`
 
