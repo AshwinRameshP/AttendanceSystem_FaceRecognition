@@ -126,7 +126,7 @@ def manually_fill():
 
             def create_csv():
                 # Save as a csv file
-                csv_name='C:/Users/PlayGOD/Desktop/Attendace_management_system/Attendance/Manually Attendance/'+fileName+'.csv'
+                csv_name='Attendance\Manually Attendance\\'+fileName+'.csv'
                 print(attendance)
                 attendance.to_csv(csv_name, index=False)
 
@@ -180,7 +180,7 @@ def manually_fill():
 
             def attf():
                 import subprocess
-                subprocess.Popen(r'explorer /open,"C:\Users\PlayGOD\Desktop\Attendace_management_system\Attendance\Manually Attendance\"')  #open attendance sheet window
+                subprocess.Popen(r'explorer /open,".\Attendance\Manually Attendance\"')  #open attendance sheet window
 
             attf = tk.Button(MFW,  text="Check Sheets",command=attf,fg="black"  ,bg="lawn green"  ,width=12  ,height=1 ,activebackground = "Red" ,font=('times', 14, ' bold '))
             attf.place(x=730, y=410)
