@@ -16,7 +16,7 @@
 5. Now Click on Automatic Attendance to automatically create a .csv file containing student attendance.
 6. Attendance can be manually entered by admin also.
 7. All attendance records for the class are stored in the Attendance folder.
-8. Also we can visualize thw attendance in a bar graph statistics.
+8. Also we can visualize the attendance in a bar graph statistics.
 
 #### PS: Feel Free to Fork the Repository, improvise and reuse.
 
